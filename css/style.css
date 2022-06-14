@@ -1,11 +1,3 @@
-/*
-    Pilko teksto spalva
-    #666;
-
-    Bloko viršutinio border ir h1 spalva:
-    #0974b3
-
-*/
 *{
     margin: 0;
     padding: 0;
@@ -25,8 +17,7 @@ body {
     
 }
 
-.first{
-    
+article{
     max-width: 737px;
     height: auto;
     background: white;
